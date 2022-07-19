@@ -8,7 +8,7 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 # Objectives
 Use data science methodologies to define and formulate a real-world business problem.
-Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
+Use data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
 # Outline
 1 - Hands-on Lab_ Complete the Data Collection API Lab.ipynb
