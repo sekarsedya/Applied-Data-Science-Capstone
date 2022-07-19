@@ -8,15 +8,15 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 # Objectives
 Use data science methodologies to define and formulate a real-world business problem.
-Use data analysis tools to load a dataset, clean it, and find out interesting insights from it.
+<p>Use data analysis tools to load a dataset, clean it, and find out interesting insights from it.</p>
 
 # Outline
 1 - Hands-on Lab_ Complete the Data Collection API Lab.ipynb
-2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb
-3 - Hands-On Lab_ Data Wrangling.ipynb
-4 - Hands-on Lab Complete the EDA with SQL.ipynb
-5 - jupyter-labs-eda-dataviz.ipynb
-6 - lab_jupyter_launch_site_location.ipynb
-7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb
-8 - SpaceX_Machine Learning Prediction_Part_5.ipynb
-9 - robert-spacex-booster-prediction-report.pdf
+<p>2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb</p>
+<p>3 - Hands-On Lab_ Data Wrangling.ipynb</p>
+<p>4 - Hands-on Lab Complete the EDA with SQL.ipynb</p>
+<p>5 - jupyter-labs-eda-dataviz.ipynb</p>
+<p>6 - lab_jupyter_launch_site_location.ipynb</p>
+<p>7 - spacex_dash_app.py & Hands-on Lab_ Build an Interactive Dashboard with Ploty Dash.ipynb</p>
+<p>8 - SpaceX_Machine Learning Prediction_Part_5.ipynb</p>
+<p>9 - robert-spacex-booster-prediction-report.pdf</p>
